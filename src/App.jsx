@@ -16,7 +16,7 @@ function App() {
       <section><Hero /></section>
       <section id="about" className='scroll-mt-30'><About /></section>
       <section id="skills" className="scroll-mt-24"><Skills /></section>
-      <section id="projects" className="scroll-mt-[-50px]"><Projects /></section>
+      <section id="projects" className="scroll-mt-[-20px]"><Projects /></section>
       <section id="contact"><Contact/></section>
       <section id="footer"><Footer/></section>
     </>
